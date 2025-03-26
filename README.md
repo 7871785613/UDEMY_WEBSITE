@@ -1,7 +1,7 @@
 
-Udemy Website Replica
+Udemy Website 
 
-A static Udemy website replica built using HTML, CSS (Flexbox), and CSS classes, featuring:
+A static Udemy website built using HTML, CSS (Flexbox), and CSS classes, featuring:
 
 Features
 - Responsive design for seamless viewing on various devices
